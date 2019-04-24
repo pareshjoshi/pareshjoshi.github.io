@@ -1,2 +1,2 @@
-# pareshjoshi.github.io
-Personal blog
+# www.gobeyondsyllabus.com
+This is a repository of my website.
