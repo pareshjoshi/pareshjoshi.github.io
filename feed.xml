@@ -3,7 +3,7 @@
     <title>Go Beyond Syllabus</title>
     <link href="https://pareshjoshi.github.io/feed.xml" rel="self" />
     <link href="https://pareshjoshi.github.io" />
-    <updated>2020-02-16T15:50:23+05:30</updated>
+    <updated>2020-02-16T16:04:28+05:30</updated>
     <author>
         <name>Paresh Joshi</name>
     </author>
@@ -16,8 +16,11 @@
         </author>
         <link href="https://pareshjoshi.github.io/does-your-career-need-attention.html"/>
         <id>https://pareshjoshi.github.io/does-your-career-need-attention.html</id>
+            <category term="training"/>
+            <category term="job"/>
+            <category term="career"/>
 
-        <updated>2020-02-16T15:28:24+05:30</updated>
+        <updated>2020-02-16T16:02:44+05:30</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
