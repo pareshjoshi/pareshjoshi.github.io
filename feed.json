@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Go Beyond Syllabus",
+    "description": "",
+    "home_page_url": "https://pareshjoshi.github.io",
+    "feed_url": "https://pareshjoshi.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Paresh Joshi"
+    },
+    "items": [
+        {
+            "id": "https://pareshjoshi.github.io/does-your-career-need-attention.html",
+            "url": "https://pareshjoshi.github.io/does-your-career-need-attention.html",
+            "title": "Does your career need attention?",
+            "content_html": "<img class=\"post__image post__image--full\" src=\"https://pareshjoshi.github.io/media/posts/1/go-beyond-1.png\" alt=\"\" width=\"1414\" height=\"2000\">",
+            "author": {
+                "name": "Paresh Joshi"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-02-16T15:26:40+05:30",
+            "date_modified": "2020-02-16T15:28:24+05:30"
+        }
+    ]
+}

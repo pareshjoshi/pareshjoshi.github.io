@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Go Beyond Syllabus</title>
+    <link href="https://pareshjoshi.github.io/feed.xml" rel="self" />
+    <link href="https://pareshjoshi.github.io" />
+    <updated>2020-02-16T15:50:23+05:30</updated>
+    <author>
+        <name>Paresh Joshi</name>
+    </author>
+    <id>https://pareshjoshi.github.io</id>
+
+    <entry>
+        <title>Does your career need attention?</title>
+        <author>
+            <name>Paresh Joshi</name>
+        </author>
+        <link href="https://pareshjoshi.github.io/does-your-career-need-attention.html"/>
+        <id>https://pareshjoshi.github.io/does-your-career-need-attention.html</id>
+
+        <updated>2020-02-16T15:28:24+05:30</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <img class="post__image post__image--full" src="https://pareshjoshi.github.io/media/posts/1/go-beyond-1.png" alt="" width="1414" height="2000">
+            ]]>
+        </content>
+    </entry>
+</feed>
